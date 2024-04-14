@@ -1,4 +1,11 @@
+<h1 align="center">Hello👋, I'm Muthukumaran A</h1>
+<h3 align="center">Software Engineer | Java | OOPs | MySQL | Tech Enthusiast Passionate about Software Development</h3>
 
+-  I’m currently learning **Spring | Javascript | AI**
+
+-  Looking for collaboration
+
+-  Reach me at **ak.kumaran002@gmail.com**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muthukumarana2/) 
 
