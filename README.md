@@ -1,9 +1,9 @@
 <h1 align="center">Hello👋, I'm Muthukumaran A</h1>
 <h3 align="center">Software Engineer | Java | OOPs | MySQL | Tech Enthusiast Passionate about Software Development</h3>
 
--  I’m currently learning **Spring | Javascript | AI**
+-  I’m currently learning **Spring | Python**
 
--  Looking for collaboration
+-  Looking for collaboration on Java
 
 -  Reach me at **ak.kumaran002@gmail.com**
 ## 🌐 Socials:
@@ -15,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=kumaran002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kumaran002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaran002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kumaran002&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
